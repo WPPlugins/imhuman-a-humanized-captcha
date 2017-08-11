@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* Yuksel Kurtbas - www.elxsy.com */
+.imhuman-error {
+	background:#FF7;
+	padding:6px;
+	border:1px dashed #F30;
+	color:#000;
+	font-weight:bold;
+}
+.imhuman-row {
+	margin:4px 0;
+}
+.pos-left {
+	float:left;
+}
+.clear-left {
+	clear:left
+}
+.imhuman-title {
+	padding:2px;
+	font-weight:bold;
+	width:auto;
+	margin:0;
+	color:#555;
+}
+.imhuman-item {
+	background:#000;
+	display:block;
+	width:75px;
+	height:75px;
+	padding:6px;
+	border:1px solid #333;
+	background-position:center center;
+	background-repeat:no-repeat;
+	vertical-align:bottom;
+	cursor:pointer;
+	margin:1px;
+	opacity: 0.65;
+	filter: alpha(opacity = 65);
+}
+.imhuman-chk {
+	position:relative;
+	display:block;
+	float:right;
+	width:13px;
+	height:13px;
+	margin-top:62px;
+}
+.imhuman-sel {
+	border:1px solid #333;
+	opacity: 1;
+	filter: alpha(opacity = 100);
+}
